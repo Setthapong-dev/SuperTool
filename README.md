@@ -2,6 +2,12 @@
 
 A comprehensive AI-powered web application built with React and Express.js, featuring content generation, image processing, and community features.
 
+## 🌐 Live Demo
+
+**🚀 [Try SuperTool Live](https://super-tool-wine.vercel.app/)**
+
+Experience all the AI-powered features including article generation, image creation, and community interactions.
+
 ## ✨ Features
 
 ### 🤖 AI Content Generation
@@ -50,6 +56,9 @@ A comprehensive AI-powered web application built with React and Express.js, feat
 - **Clerk Express** - Server-side authentication
 
 ## 🚀 Quick Start
+
+### 🌐 Try It Live First
+**Want to see SuperTool in action?** Visit our live demo at [https://super-tool-wine.vercel.app/](https://super-tool-wine.vercel.app/) to experience all features without any setup!
 
 ### Prerequisites
 - Node.js (v18 or higher)
@@ -111,8 +120,9 @@ A comprehensive AI-powered web application built with React and Express.js, feat
    ```
 
 5. **Access the application**
-   - Frontend: http://localhost:5173
-   - Backend API: http://localhost:3000
+   - **Live Demo**: [https://super-tool-wine.vercel.app/](https://super-tool-wine.vercel.app/)
+   - Local Frontend: http://localhost:5173
+   - Local Backend API: http://localhost:3000
 
 ## 📁 Project Structure
 
@@ -198,9 +208,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/your-repo/issues) page
-2. Create a new issue with detailed description
-3. Contact the development team
+1. **Try the Live Demo**: [https://super-tool-wine.vercel.app/](https://super-tool-wine.vercel.app/)
+2. Check the [Issues](https://github.com/your-repo/issues) page
+3. Create a new issue with detailed description
+4. Contact the development team
 
 ## 🙏 Acknowledgments
 
